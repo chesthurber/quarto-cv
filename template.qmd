@@ -25,29 +25,69 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Employment
+# **Academic Appointments**
 
-*Arthur Guinness & Son*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+### Northern Illinois University, School of Public and Global Affairs
 
-Researcher (Dublin) \hfill 1899-1935
+- Associate Professor, Department of Political Science \hfill 2022-Present
+- Director of Undergraduate Studies, Deptartment of Political Science \hfill 2023 - Present
+- Assistant Professor, Department of Political Science \hfill 2016 - 2022
+
+### University of Denver, Josef Korbel School of International Studies
+- Visiting Scholar,  Si\'e Ch\'eou-Kang Center for International Security \hfill2022-2023
+
+### University of Chicago
+- Postdoctoral Scholar, Chicago Project on Security and Terrorism \hfill 2015-2016
+     
+### Harvard University, John F. Kennedy School of Government
+- Research Fellow, Belfer Center for Science and International Affairs \hfill 2014-2015
+
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+### Tufts University, The Fletcher School of Law and Diplomacy
+- Ph.D. | International Relations \hfill 2015
+
+  - Dissertation: "Between Mao and Gandhi: Strategies of Violence and Nonviolence 
+  - in Revolutionary Movements"
+  - Committee: Richard Shultz, Zeynep Bulutgil, Erica Chenoweth
+  - *Recipient of the Ackerman Award for Outstanding Doctoral Dissertation*
+  
+- M.A.L.D. | International Relations \hfill 2010
+
+### Middlebury College
+- B.A. | International Studies  (summa cum laude, Phi Beta Kappa) \hfill 2004
 
 # Publications
 
-::: {#refs-peer}
-:::
+### Book
 
-# Technical Reports
+- 2021. [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](\href{https://www.cambridge.org/core/books/between-mao-and-gandhi/21A630179930DC86E735BCA6F708D552) Cambridge University Press, Cambridge Studies in Contentious Politics.
 
-::: {#refs-other}
-:::
+   - Reviewed in [*International Affairs*](https://doi.org/10.1093/ia/iiac031)  and [*Perspectives on Politics*](https://cup.org/42gBDBM).
 
 
-# References
+### Journal Articles
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher.
+- Forthcoming. ["How Civil Resistance Improves Inclusive Democracy,"](https://www.researchgate.net/publication/375489313_How_Civil_Resistance_Improves_Inclusive_Democracy) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. *Perspectives on Politics.*
+
+- 2023. ["From Doctrine to Detonation: Ideology, Organization, and Terrorism in Mass Dissident Campaigns,"](https://doi.org/10.1177/00223433221135) with Margherita Belgioioso. *Journal of Peace Research*, OnlineFirst.
+
+- 2020. ["The Security Force Ethnicity (SFE) Project: Introducing a New Dataset,"](https://doi.org/10.1177/0738894217709012) with Paul Lorenzo Johnson. *Conflict Management and Peace Science* 37 (1): 106-129.
+
+- 2019. ["Social Ties and the Strategy of Civil Resistance. "](https://doi.org/10.1093/isq/sqz049) *International Studies Quarterly* 63 (4): 974-986.
+
+- 2018. ["Ethnic Barriers to Civil Resistance.](https://doi.org/10.1093/jogss/ogy018) *Journal of Global Security Studies* 3 (3): 255-270.
+
+- 2014. ["Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups."](https://doi.org/10.1080/09592318.2014.945633) *Small Wars and Insurgencies* 25 (5-6): 900-923.
+
+### Refereed Chapters & Reports
+
+- Forthcoming. "A Yam Between Two Boulders: Global Orders, Regional Rivalries, and Contentious Politics," in Abu Bakarr Bah, ed. *Glocalized Security*, Indiana University Press.
+
+- 2021. [*From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal*](https://www.nonviolent-conflict.org/resource/from-the-hills-to-the-streets-to-the-table-rl/) with Subindra Bogati. ICNC Press.
+
+
+
+
