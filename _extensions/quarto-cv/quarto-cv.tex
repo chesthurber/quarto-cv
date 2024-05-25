@@ -90,8 +90,11 @@ $endfor$
 % ----------------------------------
 
 % Custom section fonts
+\usepackage{xcolor}
+\definecolor{niured}{cmyk}{0.2,1,.85,.06}
+\definecolor{niugray}{cmyk}{0,0,0,.5}
 \usepackage{sectsty}
-\sectionfont{\rmfamily\mdseries\large\bf}
+\sectionfont{\fontspec{Arial}\Large\color{niured}}
 \subsectionfont{\rmfamily\mdseries\normalsize\scshape}
 
 
@@ -166,7 +169,9 @@ $endif$
 \begin{document}
 
 
-\centerline{\huge \bf $author$}
+{\huge \textsc{ $author$}}
+
+
 
 \vspace{2 mm}
 

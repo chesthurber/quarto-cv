@@ -2,7 +2,8 @@
 title: CV
 format:
   quarto-cv-pdf: default
-author: CHES THURBER
+author: Ches Thurber
+jobtitle: "Department of Political Science, Northern Illinois University"
 date: last-modified
 phone: (815) 753-1011
 address: "Department of Political Science · 414 Zulauf Hall · Northern Illinois University · DeKalb, IL 60115"
@@ -25,17 +26,17 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# **Academic Appointments**
+# Academic Appointments
 
 
-### Northern Illinois University, School of Public and Global Affairs
+### Northern Illinois University
 
 - Associate Professor, Department of Political Science \hfill 2022-Present
 - Director of Undergraduate Studies, Deptartment of Political Science \hfill 2023 - Present
 - Assistant Professor, Department of Political Science \hfill 2016 - 2022
 
 ### University of Denver, Josef Korbel School of International Studies
-- Visiting Scholar,  Si\'e Ch\'eou-Kang Center for International Security \hfill2022-2023
+- Visiting Scholar,  Sié Chéou-Kang Center for International Security \hfill 2022-2023
 
 ### University of Chicago
 - Postdoctoral Scholar, Chicago Project on Security and Terrorism \hfill 2015-2016
@@ -49,8 +50,7 @@ csl: apa-cv.csl
 ### Tufts University, The Fletcher School of Law and Diplomacy
 - Ph.D. | International Relations \hfill 2015
 
-  - Dissertation: "Between Mao and Gandhi: Strategies of Violence and Nonviolence 
-  - in Revolutionary Movements"
+  - Dissertation: "Strategies of Violence and Nonviolence in Revolutionary Movements"
   - Committee: Richard Shultz, Zeynep Bulutgil, Erica Chenoweth
   - *Recipient of the Ackerman Award for Outstanding Doctoral Dissertation*
   
@@ -88,6 +88,47 @@ csl: apa-cv.csl
 
 - 2021. [*From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal*](https://www.nonviolent-conflict.org/resource/from-the-hills-to-the-streets-to-the-table-rl/) with Subindra Bogati. ICNC Press.
 
+### Policy Briefs & Essays
 
+- 2022. \href{https://www.csis.or.id/publications/civil-resistance-and-inclusive-democratization-in-indonesia}{\emph{Civil Resistance and Inclusive Democratization in Indonesia,}} with Titik Firawati. Center for Strategic and International Studies, Jakarta. February 4, 2022.
+
+- 2011. ``From Coexistence to Cleansing: The Rise of Sectarian Violence in Baghdad, 2003-2006'' \emph{al-Nakhlah: Journal of Southwest Asia and Islamic Civilization}.
+
+- 2011. \href{https://jpia.princeton.edu/sites/jpia/files/jpia2011-2.pdf}{``A Step Short of the Bomb: Explaining the Strategy of Nuclear Hedging.''} \emph{Journal of Public and International Affairs} 22: 29-47.
+
+### Book Reviews & Correspondence
+
+- 2023. \href{https://doi.org/10.1017/S1537592722003693}{Reply to Corinna Jentzsch's Review} of \emph{Between Mao and Gandhi,} in \emph {Perspectives on Politics} 21 (1): 344 - 346.
+
+- 2023. \href{https://doi.org/10.1017/S1537592722003693}{Review of \emph{Violent Resistance: Militia Formation and Civil War in Mozambique,} by Corinna Jentzsch (Cambridge, 2022),} in \emph {Perspectives on Politics} 21 (1): 344 - 346.
+ 
+- 2014. Review of \emph{The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century,} edited by Mahendra Lawoti and Anuk K. Pahari (Routledge, 2009), in \emph{Himalaya} 34, no. 1 (Spring): 148-150.
+
+
+### Commentary
+
+- 2024. \href{https://politicalviolenceataglance.org/2018/10/29/why-ethnic-cleavages-create-barriers-to-civil-resistance/}{"6+1 on \emph{Between Mao and Gandhi},"} \emph{The Duck of Minerva,} (February 29).
+
+- 2018. \href{https://politicalviolenceataglance.org/2018/10/29/why-ethnic-cleavages-create-barriers-to-civil-resistance/}{"Why Ethnic Cleavages Create Barriers to Civil Resistance,"} \emph{Political Violence \@ a Glance,} (October 29).
+
+- 2017. \href{https://politicalviolenceataglance.org/2017/09/11/mao-gandhi-and-the-choice-between-violent-and-nonviolent-action/}{"Mao, Gandhi, and the Choice Between Violent and Nonviolent Action,"} *Political Violence \@ a Glance* (September 11).
+
+- 2017. \href{https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/22/new-data-shows-a-sharp-increase-in-u-s-protest-activity-in-april/}{"New Data Shows a Sharp Increase in U.S. Protest Activity in April,"} with Erica Chenoweth, Jeremy Pressman, and Evan Perkoski, \emph{Washington Post,} "Monkey Cage" Blog (May 22)
+
+- 2017. \href{https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/24/in-trumps-america-whos-protesting-and-why-heres-our-march-report/}{"In Trump's America, Who's Protesting and Why?"} with Erica Chenoweth, David Prater, Jeremy Pressman, and Stephen Zunes, \emph{Washington Post,} "Monkey Cage" Blog (April 24).
+
+
+
+### Work in Progress
+
+  - "Ethnic Coalitions and the Trajectories of Resistance Campaigns," with Robert Tanner Bivens (Under Review).
+
+  - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Working Paper).
+
+  - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Working Paper).
+
+  - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in the Heat of Mass Uprisings." (Working Paper).
+
+  - "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict," (Working Paper).
 
 
