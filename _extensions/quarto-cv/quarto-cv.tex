@@ -94,7 +94,7 @@ $endfor$
 \definecolor{niured}{cmyk}{0.2,1,.85,.06}
 \definecolor{niugray}{cmyk}{0,0,0,.5}
 \usepackage{sectsty}
-\sectionfont{\fontspec{Arial}\Large\color{niured}}
+\sectionfont{\fontspec{Gill Sans}\mdseries\Large\color{niured}\textsc{}}
 \subsectionfont{\rmfamily\mdseries\normalsize\scshape}
 
 
@@ -169,25 +169,20 @@ $endif$
 \begin{document}
 
 
-{\huge \textsc{ $author$}}
+{\rmfamily\mdseries\huge\color{niured}\uppercase{{ $author$}}}
+
+{\hspace{0 mm}\fontspec{Gill Sans}\color{niugray}\uppercase{{ $department$}}}\hfill\faPhone \hspace{1 mm} {$phone$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $school$}}}\hfill \hfill\faEnvelope \hspace{1 mm}\href{mailto:}{\tt $email$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $institution$}}}\hfill\faGlobe \hspace{1 mm}\href{http://$web$}{\tt $web$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $address$}}}\hfill\orcidlink{$orcid$} \hspace{.5 mm}\href{https://orcid.org/$orcid$}{\tt $orcid$}
 
 
-
-\vspace{2 mm}
-
-\hrule
-
-\vspace{2 mm}
-
-$if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-$if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-\moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm} $endif$  $if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ $if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ $if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(kaggle)$$if(fontawesome)$\faKaggle \hspace{1 mm}$else$\emph{Kaggle:}$endif$ \href{http://kaggle.com/$kaggle$}{\tt $kaggle$} \hspace{1 mm} $endif$   $if(updated)$ | \emph{Updated:} $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
 
 
 
 \vspace{2 mm}
 
-\hrule
+
 
 
 
