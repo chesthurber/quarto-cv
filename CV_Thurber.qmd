@@ -8,7 +8,7 @@ school: "School of Public and Global Affairs"
 institution: "Northern Illinois University"
 date: last-modified
 phone: (815) 753-1011
-address: "1425 W. Lincoln Hwy · DeKalb, IL 60115"
+address: "1425 W. Lincoln Hwy, DeKalb, IL 60115"
 email: cthurber@niu.edu
 fontsize: 11pt
 fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
@@ -65,38 +65,36 @@ csl: apa-cv.csl
 
 ### Book
 
-- 2021. [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](\href{https://www.cambridge.org/core/books/between-mao-and-gandhi/21A630179930DC86E735BCA6F708D552) Cambridge University Press, Cambridge Studies in Contentious Politics.
-
-   - Reviewed in [*International Affairs*](https://doi.org/10.1093/ia/iiac031)  and [*Perspectives on Politics*](https://cup.org/42gBDBM).
+- 2021. [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](\href{https://www.cambridge.org/core/books/between-mao-and-gandhi/21A630179930DC86E735BCA6F708D552) Cambridge University Press, Cambridge Studies in Contentious Politics. Reviewed in [*International Affairs*](https://doi.org/10.1093/ia/iiac031)  and [*Perspectives on Politics*](https://cup.org/42gBDBM).
 
 
 ### Journal Articles
 
-- Forthcoming. ["How Civil Resistance Improves Inclusive Democracy,"](https://www.researchgate.net/publication/375489313_How_Civil_Resistance_Improves_Inclusive_Democracy) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. *Perspectives on Politics.*
+  - Forthcoming. ["How Civil Resistance Improves Inclusive Democracy,"](https://www.researchgate.net/publication/375489313_How_Civil_Resistance_Improves_Inclusive_Democracy) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. Forthcoming in *Perspectives on Politics.*
 
-- 2023. ["From Doctrine to Detonation: Ideology, Organization, and Terrorism in Mass Dissident Campaigns,"](https://doi.org/10.1177/00223433221135) with Margherita Belgioioso. *Journal of Peace Research*, OnlineFirst.
+  - 2023. ["From Doctrine to Detonation: Ideology, Organization, and Terrorism in Mass Dissident Campaigns,"](https://doi.org/10.1177/00223433221135) with Margherita Belgioioso. *Journal of Peace Research*, OnlineFirst.
 
-- 2020. ["The Security Force Ethnicity (SFE) Project: Introducing a New Dataset,"](https://doi.org/10.1177/0738894217709012) with Paul Lorenzo Johnson. *Conflict Management and Peace Science* 37 (1): 106-129.
+  - 2020. ["The Security Force Ethnicity (SFE) Project: Introducing a New Dataset,"](https://doi.org/10.1177/0738894217709012) with Paul Lorenzo Johnson. *Conflict Management and Peace Science* 37 (1): 106-129.
 
-- 2019. ["Social Ties and the Strategy of Civil Resistance. "](https://doi.org/10.1093/isq/sqz049) *International Studies Quarterly* 63 (4): 974-986.
+  - 2019. ["Social Ties and the Strategy of Civil Resistance. "](https://doi.org/10.1093/isq/sqz049) *International Studies Quarterly* 63 (4): 974-986.
 
-- 2018. ["Ethnic Barriers to Civil Resistance.](https://doi.org/10.1093/jogss/ogy018) *Journal of Global Security Studies* 3 (3): 255-270.
+  - 2018. ["Ethnic Barriers to Civil Resistance.](https://doi.org/10.1093/jogss/ogy018) *Journal of Global Security Studies* 3 (3): 255-270.
 
-- 2014. ["Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups."](https://doi.org/10.1080/09592318.2014.945633) *Small Wars and Insurgencies* 25 (5-6): 900-923.
+  - 2014. ["Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups."](https://doi.org/10.1080/09592318.2014.945633) *Small Wars and Insurgencies* 25 (5-6): 900-923.
 
 ### Refereed Chapters & Reports
 
-- Forthcoming. "A Yam Between Two Boulders: Global Orders, Regional Rivalries, and Contentious Politics," in Abu Bakarr Bah, ed. *Glocalized Security*, Indiana University Press.
+- Forthcoming. "A Yam Between Two Boulders: Global Orders, Regional Rivalries, and Contentious Politics," in Abu Bakarr Bah, ed. *Glocalized Security*, Forthcoming with Indiana University Press.
 
 - 2021. [*From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal*](https://www.nonviolent-conflict.org/resource/from-the-hills-to-the-streets-to-the-table-rl/) with Subindra Bogati. ICNC Press.
 
 ### Policy Briefs & Essays
 
-- 2022. \href{https://www.csis.or.id/publications/civil-resistance-and-inclusive-democratization-in-indonesia}{\emph{Civil Resistance and Inclusive Democratization in Indonesia,}} with Titik Firawati. Center for Strategic and International Studies, Jakarta. February 4, 2022.
+- 2022. ["Civil Resistance and Inclusive Democratization in Indonesia,"](https://www.csis.or.id/publications/civil-resistance-and-inclusive-democratization-in-indonesia) with Titik Firawati. Center for Strategic and International Studies, Jakarta. February 4, 2022.
 
-- 2011. ``From Coexistence to Cleansing: The Rise of Sectarian Violence in Baghdad, 2003-2006'' \emph{al-Nakhlah: Journal of Southwest Asia and Islamic Civilization}.
+- 2011. "From Coexistence to Cleansing: The Rise of Sectarian Violence in Baghdad, 2003-2006." \emph{al-Nakhlah: Journal of Southwest Asia and Islamic Civilization}.
 
-- 2011. \href{https://jpia.princeton.edu/sites/jpia/files/jpia2011-2.pdf}{``A Step Short of the Bomb: Explaining the Strategy of Nuclear Hedging.''} \emph{Journal of Public and International Affairs} 22: 29-47.
+- 2011. ["A Step Short of the Bomb: Explaining the Strategy of Nuclear Hedging."](https://jpia.princeton.edu/sites/jpia/files/jpia2011-2.pdf) \emph{Journal of Public and International Affairs} 22: 29-47.
 
 ### Book Reviews & Correspondence
 
@@ -119,18 +117,16 @@ csl: apa-cv.csl
 
 - 2017. \href{https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/24/in-trumps-america-whos-protesting-and-why-heres-our-march-report/}{"In Trump's America, Who's Protesting and Why?"} with Erica Chenoweth, David Prater, Jeremy Pressman, and Stephen Zunes, \emph{Washington Post,} "Monkey Cage" Blog (April 24).
 
-
-
 ### Work in Progress
 
   - "Ethnic Coalitions and the Trajectories of Resistance Campaigns," with Robert Tanner Bivens (Under Review).
-
+  
   - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Working Paper).
-
+  
   - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Working Paper).
-
+  
   - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in the Heat of Mass Uprisings." (Working Paper).
-
+  
   - "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict," (Working Paper).
 
 

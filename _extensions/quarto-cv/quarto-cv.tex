@@ -160,7 +160,7 @@ $endif$
 
 % \emph{Updated:} \apstylekinda\today
 % ^ removed from that front bar.
-
+\usepackage{soul}
 \usepackage{orcidlink}
 %\usepackage{academicons}
 %\definecolor{orcidlogocol}{HTML}{A6CE39}
@@ -169,12 +169,13 @@ $endif$
 \begin{document}
 
 
-{\rmfamily\mdseries\huge\color{niured}\uppercase{{ $author$}}}
+{\fontspec{Gill Sans}\huge\color{niured}\uppercase{{\so{$author$}}}}
 
-{\hspace{0 mm}\fontspec{Gill Sans}\color{niugray}\uppercase{{ $department$}}}\hfill\faPhone \hspace{1 mm} {$phone$}\\
-{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $school$}}}\hfill \hfill\faEnvelope \hspace{1 mm}\href{mailto:}{\tt $email$}\\
-{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $institution$}}}\hfill\faGlobe \hspace{1 mm}\href{http://$web$}{\tt $web$}\\
-{\fontspec{Gill Sans}\color{niugray}\uppercase{{ $address$}}}\hfill\orcidlink{$orcid$} \hspace{.5 mm}\href{https://orcid.org/$orcid$}{\tt $orcid$}
+
+{\hspace{0 mm}\fontspec{Gill Sans}\color{niugray}\uppercase{{$department$}}}\hfill\faPhone \hspace{1 mm} {$phone$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{$school$}}}\hfill \hfill\faEnvelope \hspace{1 mm}\href{mailto:}{\tt $email$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{$institution$}}}\hfill\faGlobe \hspace{1 mm}\href{http://$web$}{\tt $web$}\\
+{\fontspec{Gill Sans}\color{niugray}\uppercase{{$address$}}}\hfill\orcidlink{$orcid$} \hspace{.5 mm}\href{https://orcid.org/$orcid$}{\tt $orcid$}
 
 
 
