@@ -129,7 +129,7 @@ csl: apa-cv.csl
   
   - "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict," (Working Paper).
 
-# Fellowships, Grants & Awards
+# Grants, Fellowships & Awards
 
 ### Externally Funded Research Grants
 
@@ -173,16 +173,12 @@ csl: apa-cv.csl
   - Martin Chautari Invited Speaker Series, Kathmandu, Nepal (July 2013).
 
 
-
-
-
-# Conference Presentations
-
+# Conference Papers
 - "Mobilizing for Social Inclusion in Post-Conflict Nepal," with Subindra Bogati.
     - 2024. ISA Annual Meeting, San Francisco, CA.
     \vspace{1em}
 
-- "The Yam Between Two Boulders: India, China, and the Glocalization of Contention in Nepal."
+- "India, China, and the Glocalization of Contention in Nepal."
     - 2023. Symposium on Muslim Politics and World Society, Universitas Islam Internasional Indonesia (virtual). \vspace{1em}
 
   
@@ -229,6 +225,7 @@ csl: apa-cv.csl
 	
 - "The Strategic Utility of Diversity in Violent and Nonviolent Conflict," with Ben Naimark-Rowse and Phoebe Donnelly.
 	- 2016. ISA Annual Meeting, Atlanta, GA.
+	 \vspace{1em}
 	
 - "Military Composition and Coups in the Modern Middle East," with Paul Lorenzo Johnson.
   - 2016. ISA Annual Meeting, Atlanta, GA.
@@ -255,6 +252,185 @@ csl: apa-cv.csl
   - 2013. ISA Annual Meeting, San Francisco, CA.
   - 2013. WPSA Annual Meeting, Hollywood, CA.		
 
+# Other Conference Appearances
 
-  
+### Invited Workshops
+
+- 2017. "What Do We Know About Networks of Resistance?," Peace Science Society Annual Meeting, Tempe, AZ.
+- 2016. "Data and Measurement in Civil-Military Relations," Peace Science Society Annual Meeting, South Bend, IN.
+- 2014. "Who Guards the Guardians? Leveraging New Data in Civil-Military Relations," Peace Science Society Annual Meeting, Philadelphia, PA.
+
+### Roundtable Participant
+
+- 2022. "Author Meets Critics: Ches Thurber's *Between Mao and Gandhi*," APSA Annual Meeting, Montreal, Canada.
+- 2019. "Methods of Inquiry in the Study of Civil Resistance," ISA Annual Meeting, Toronto, Canada.
+
+### Chair / Discussant
+- 2024. "Disaggregating actors and institutions in protest dynamics,"  Discussant, ISA Annual Meeting, San Francisco, CA.
+- 2023. Four Corners Conflict Network Conference, Discussant, Moab, UT.
+- 2022. "Multi-Actor Approaches to the Study of Conflict," Discussant, ISA Annual Meeting, Montreal, Canada.
+- 2022. "Civil-Military Relations, Security, and Society," Chair, ISA Annual Meeting, virtual format.
+- 2021. "Social Organization in Regular and Irregular Armed Forces," Discussant, APSA Annual Meeting, virtual format.
+- 2021. "New Research on Political Activism and Nonviolent Resistance,'' Discussant," MPSA Annual Meeting, virtual format.
+- 2021. "Dynamics of Civil Resistance and Mass Contention," Discussant, ISA Annual Meeting, virtual format (April 2021).
+- 2019. "Insurgency," Discussant, ISA Annual Meeting, Toronto, Canada.
+- 2016. "Myanmar," Chair, Conference on Rebel Law and Governance, University of Chicago School of Law, Chicago, IL.
+- 2016. "The Strategy of Nonviolence," Discussant, APSA Annual Meeting, Philadelphia, PA.
+- 2016. "New Quantitative Research on Nonviolent Resistance," Discussant, ISA Annual Meeting, Atlanta, GA.
+- 2015. "International Dimensions of Nationalist Politics,'' Discussant, Association for the Study of Nationalities, New York, NY.	  
  
+# Teaching
+
+### Northern Illinois University
+
+*Undergraduate*
+
+- Introduction to International Relations (Fall 2024, Sp. 2022, Fall 2017, Sp. 2017, Fall 2016).
+- International Law and Organizations (Fall 2023, Fall 2021, Fall 2020, Fall 2018).
+- International Security (Fall 2022, Sp. 2022, Sp.  2020, Sp. 2017, Sp. 2018).
+- Topics in Contemporary Security (Fall 2023, Sum. 2022, Sp. 2021, Sp. 2018).
+
+*Graduate*
+
+- International Relations Theory (Fall 2017).
+- International Security (Sp. 2024, Fall 2020, Sp. 2019).
+- Introductory Analysis of Political Data (Fall 2021, Fall 2018).
+- Intermediate Analysis of Political Data (Sp. 2021, Sp. 2019).
+- Contentious Politics (Sp. 2022, Sp. 2020).
+
+### Tufts University
+- Theory and Practice of Nonviolent Resistance (Fall 2014).
+
+### University of Alaska Fairbanks
+- Intro to International Relations (Fall 2011, Fall 2012)
+- Political Science Research Methods (Fall 2011, Fall 2012)
+- Peace, War, and Security (Sp. 2012)
+- Political Economy (Fall 2012, Sp. 2013)
+
+# Teaching Recognition
+
+- 2024. Outstanding Honors Faculty Spotlight, Northern Illinois University.
+- 2023. Departmental Nominee, Excellence in Undergraduate Teaching Award, Northern Illinois University.
+- 2018. Engaged Learning Exemplar, Northern Illinois University.
+- 2012. College of Liberal Arts and Sciences Excellence in Teaching, University of Alaska Fairbanks.
+
+# Advising
+
+### Doctoral Dissertation Chair
+
+- Annie Tong (in progress)
+- Titik Firawati (2024), Gadjah Mada University
+- Anna Zapolska (2022), U.S. Department of Justice
+- Damir Kovacevic (2018), University of Wisconsin-Eau Claire
+- Ilhan Aydemir (2018), Bolu Abant Izzet Baysal University
+    
+### Doctoral Dissertation Committee
+
+- Salieg Munestri (in progress)
+- Tanner Bivens (in progress)
+- Rithiya Serrey (in progress)
+- Jim Godowic (2021)
+- James Boesen (2017) 
+- Martin Claar (2017)
+    
+### M.A. Thesis Chair
+- Rothsethamony Seng (2024)
+- Janet Vallejo (2023)
+- Mohammed Noor (2022)
+- Nick Florian (2022)
+- Peter Poterek (2020)
+- Matthew Peerboom (2020)
+- Dimitri Niforos (2018)
+
+### M.A. Thesis Committee
+
+- Thomas Mejdrech (in progress)
+- Chibuzo Obasi (2023)
+- Patricia Buczynski (2022)
+- Tammie-Louise Finnegan (2022)
+- Rithiya Serrey (2021)
+- Sarwar Minar (2021)
+- Medha Monjaury (2018)
+
+### Undergraduate Honors Capstone
+
+- Timothy Johnson (2019-2020)
+- Quinn Carolan (2018)
+  - Published in [*Compass: An Undergraduate Journal of American Political Ideas*](https://digitalcommons.jsu.edu/compass/vol5/iss1/1)
+
+### Undergraduate Sponsored Research
+- Shelby Emery (NIU Research Rookies, 2020-2021)
+- Matthew Holt (NIU Student Engagement Research Grant, 2017)
+- Kevin Kelly (Smith Richardson Foundation Grant, 2014-2015)
+- Noah Cohen (Smith Richardson Foundation Grant, 2014-2015)
+- Sarah Koosis (Smith Richardson Foundation Grant, 2014-2015)
+
+### Undergraduate Independent Research
+- Samm Cottone (2020)
+- Thomas Phetmuengmay (2020)
+- Sean Lehning (2019-2020)
+  - Published in [*Compass: An Undergraduate Journal of American Political Ideas*](https://digitalcommons.jsu.edu/compass/vol5/iss1/2)
+- Timothy Johnson (2019-2020)
+- Zachary Tardio (2019)
+- Quinn Carolan (2018)
+- Jon Frejlich (2018)
+- Matthew Peerboom (2017)
+
+# Research and Pedagogy Training Workshops
+- 2024. "Assessment Circle: Designing Good Learning Outcomes," NIU workshop, virtual format.
+- 2022. "Developing a Positive Connection with Students with *Navigate*," NIU workshop, virtual format.
+- 2022. "Designing an Accessible Course Syllabus," NIU workshop, virtual format.
+- 2019. "Framing Feedback, NIU workshop," DeKalb, IL.
+- 2018. "Engaged Learning, Teaching and Scholarship Conference," NIU, DeKalb, IL. 
+- 2017. "Creating a More Inclusive Classroom," NIU workshop, DeKalb, IL.
+- 2017. "Designing a Writing Infused Course," NIU workshop, DeKalb, IL.
+- 2017. CFR College and University Educators' Workshop, New York, NY.
+- 2016. "PI Academy," NIU Division of Research and Innovation Partnerships, DeKalb IL (2016-2017).
+- 2012. Institute for Qualitative and Multi-method Research, Syracuse, NY.
+- 2012. "iTeach Workshop," eLearning and Distance Education, Fairbanks, AK.
+
+# Service
+
+### Department
+- Director of Undergraduate Studies (2023-Present)
+- Committee on the Undergraduate Program (2016-2017, 2021-Present)
+- NIU Model United Nations Team Faculty Advisor (2016-Present)
+- Personnel Committee (2024)
+- Department Chair Search Committee (2019, 2020)
+- Committee on the Graduate Program (2016-2017)
+
+
+### University
+- CLAS Curriculum Committee (2024-Present)
+- Honors Program Committee (2020-Present)
+- NNGO Steering Committee (2023-Present)
+- Dissertation Completion Fellowship Selection Committee (2021)
+
+### State
+- Illinois Articulation Initiative, Political Science Panel Member (2023-Present)
+
+# Media Appearances
+
+### Television
+- *WIFR 23 Rockford*: [Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); [Aug. 16, 2021](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html); Jan. 8, 2020.
+- *WREX Rockford*: Feb. 25, 2022.
+- *Fox 32 Chicago*: [April 21, 2022](https://www.fox32chicago.com/video/1060344); [Feb. 23, 2022](https://www.fox32chicago.com/video/1038416); [Feb. 16, 2022](https://www.youtube.com/watch?v=h_ESpwI6_rc); Sept. 5, 2021; Aug. 31, 2021; [June 16, 2021](https://www.fox32chicago.com/video/944837).
+- *WGN 9 Chicago*: [Aug. 16, 2021](https://www.youtube.com/watch?v=IsijwhsA4Nk).
+-*WTVO Rockford*: [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
+
+### Radio
+
+- *NPR*, "The 21st": [Feb. 28, 2022](https://www.npr.org/podcasts/475680317/the-21st).
+- *WNIJ Northern Public Radio*: [Feb. 24, 2022](https://www.northernpublicradio.org/2022-02-24/dekalb-county-this-week-reaction-to-tensions-in-europe-stage-coach-players-to-hold-auditions); [Aug. 28, 2020](https://www.northernpublicradio.org/business/2020-08-28/tiktok-data-security-and-dueling-economies); [April 13, 2017](https://www.northernpublicradio.org/post/scrutiny-mounts-travel-orders); [April 7, 2017](https://www.northernpublicradio.org/post/niu-professor-trump-drew-line-chemical-weapons).
+- *WBBM-AM Chicago*: Aug. 16, 2021.
+- *WCEV 1450 Chicago*, "Radio Islam": [Feb. 19, 2019](https://soundcloud.com/radioislamusa/ep-6721-crisis-in-venezuela-02-19-2019); [May 4, 2018](https://soundcloud.com/radioislamusa/ep-527-conflict-in-a-nuclear-world-with-ches-thurber-5318); [Feb. 15, 2018](https://www.radioislam.com/node/28279).
+- *Australian Broadcast Corporation*, "Big Ideas": [Feb. 18, 2015](https://www.abc.net.au/radionational/programs/bigideas/revolutionary-movements/6035042).
+
+### Print
+
+- *The DeKalb Daily Chronicle*: [August 20, 2021](https://www.shawlocal.com/daily-chronicle/news/local/2021/08/21/history-repeating-itself-local-veterans-residents-reflect-on-events-in-afghanistan/)
+- *Egypt Today*: [Sept. 14, 2017](https://www.egypttoday.com/Article/2/22724/Iraqi-Militias-The-Tangle-of-Flags)
+- *The Fletcher Security Review*: [February 2017](https://docs.wixstatic.com/ugd/c28a64_c8ed8f4140894077be782bda046b4f96.pdf)
+
+
+
