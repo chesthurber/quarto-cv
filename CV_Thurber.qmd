@@ -30,12 +30,11 @@ csl: apa-cv.csl
 
 # Academic Appointments
 
+**Northern Illinois University**
 
-### Northern Illinois University
-
-- Associate Professor, Department of Political Science \hfill 2022-Present
-- Director of Undergraduate Studies, Deptartment of Political Science \hfill 2023 - Present
-- Assistant Professor, Department of Political Science \hfill 2016 - 2022
+  - Associate Professor, Department of Political Science \hfill 2022-Present
+  - Director of Undergraduate Studies, Deptartment of Political Science \hfill 2023 - Present
+  - Assistant Professor, Department of Political Science \hfill 2016 - 2022
 
 ### University of Denver, Josef Korbel School of International Studies
 - Visiting Scholar,  Sié Chéou-Kang Center for International Security \hfill 2022-2023
@@ -179,9 +178,8 @@ csl: apa-cv.csl
     \vspace{1em}
 
 - "India, China, and the Glocalization of Contention in Nepal."
-    - 2023. Symposium on Muslim Politics and World Society, Universitas Islam Internasional Indonesia (virtual). \vspace{1em}
-
-  
+    - 2023. Muslim Politics and World Society Symposium, Universitas Islam Internasional Indonesia (virtual). \vspace{1em}
+    
 - "Coalitions, Cleavages, and Claims: Rethinking the multiple dimensions of ethnicity in conflict," with Robert Tanner Bivens.
     - 2023. Four Corners Conflict Network Conference, Moab, UT.
     - 2023. ISA Annual Meeting, Montreal, CA.
@@ -409,6 +407,21 @@ csl: apa-cv.csl
 ### State
 - Illinois Articulation Initiative, Political Science Panel Member (2023-Present)
 
+### Editorial Board
+- African Conflict and Peacebuilding Review (2022-Present).
+
+### Reviewer
+
+- *Journals:* American Political Science Review, British Journal of Political Science, Comparative Political Studies, Comparative Politics, Conflict Management and Peace Science, European Journal of International Relations, Global Security and Intelligence Studies, International Area Studies Review, International Security, International Social Science Journal, International Studies Quarterly, Journal of Conflict Resolution, Journal of Global Security Studies, Journal of Peace Research, Journal of Politics, Middle Eastern Studies, Mobilization, Perspectives on Politics, PLOS ONE, Research and Politics,  Security Studies.
+    
+- *Grants:* Harry Frank Guggenheim Foundation, Israel Science Foundation, National Science Center (Poland) 
+
+- *Presses:* Columbia University Press, ICNC Press, Routledge
+ 
+### External Examiner
+- University of Otago (Ph.D.)
+- Swarthmore College (B.A. Honors)
+
 # Media Appearances
 
 ### Television
@@ -431,6 +444,64 @@ csl: apa-cv.csl
 - *The DeKalb Daily Chronicle*: [August 20, 2021](https://www.shawlocal.com/daily-chronicle/news/local/2021/08/21/history-repeating-itself-local-veterans-residents-reflect-on-events-in-afghanistan/)
 - *Egypt Today*: [Sept. 14, 2017](https://www.egypttoday.com/Article/2/22724/Iraqi-Militias-The-Tangle-of-Flags)
 - *The Fletcher Security Review*: [February 2017](https://docs.wixstatic.com/ugd/c28a64_c8ed8f4140894077be782bda046b4f96.pdf)
+
+# Public Talks & Engagement
+
+- Roundtable on "Indonesia's Presidential Election," (Organizer and Moderator) Northern Illinois University, DeKalb, IL (February 2024).
+
+- Roundtable on "The War in Gaza," (Organizer and Panelist) Northern Illinois University, DeKalb, IL (October 2023).
+
+- Roundtable on "The War in Ukraine," Northern Illinois University, DeKalb, IL (March 2022).
+
+- Roundtable on "Reflections on September 11, 2001," Northern Illinois University, DeKalb, IL (September 2021).
+
+- "What Gandhi Can Teach Us About Political Organizing," NIU Lifelong Learning Institute, DeKalb, IL (January 2021).
+
+- "The Power of Nonviolence in Global Politics," NIU Lifelong Learning Institute, DeKalb, IL (October 2017).
+
+- "Sadr, SCIRI, Scary? Iraq's Armed Shia Groups," Women in International Security, Fletcher Chapter, Medford, MA (February, 2010).	
+
+# Research and Policy Consulting
+
+- **National Democratic Institute**, Democracy Assistance in Transition \hfill Washington, DC (2023-2024)
+  - Served on Democracy Assistance in transition advisory group; prepared report on social inclusion in the aftermath of democratic transitions.
+\vspace{1em}
+
+- **UNESCWA**, Restoring Syria's Social Fabric \hfill Beirut, Lebanon (2020)
+  - Presented research findings from book in Beirut, Lebanon to inform UN report on preparing for the aftermath of civil war in Syria.
+\vspace{1em}
+
+- **University of Denver**, Innovations in Peacebuilding \hfill Denver, CO (2016)
+  - Conducted interview-based field research in Nepal and prepared report  on the impact of international actors on human rights in post-war Nepal.
+\vspace{1em}
+
+- **The Atlantic Council**, The Future of Authoritarianism Project \hfill Washington D.C. (2015)
+  - Conducted interviews with policymakers and activists to write three book chapters on U.S. support for protest movements in Central Asia.
+\vspace{1em}
+
+- **The Fletcher School/MIT Lincoln Laboratories**, Space Policy Working Group \hfill Medford, MA (2010-2011)
+  - Developed presentations for client on space governance policies.
+
+# Professional Policy Experience
+
+- **U.S. Embassy Doha**, Public Affairs Intern \hfill Doha, Qatar (2009)
+	- Drafted op-eds, speeches, and press releases pertaining to human rights, democracy, and interfaith dialogue. Organized cultural exchange events.
+\vspace{1em}
+
+- **Office of Rep. Peter Welch**,  Legislative Assistant \hfill Washington, DC (2007-2008)
+	- Advised and drafted legislation on international, military, taxation, and financial services policy.
+\vspace{1em}
+
+- **Vermont State Senate**, Aide to the Senate President Pro Tempore \hfill Montpelier, VT (2006)
+	- Managed policy advice, scheduling, and correspondence for Senate Leader.
+\vspace{1em}
+
+- **Vermont Medical Society**, Policy Analyst \hfill Montpelier, VT (2005)
+	- Prepared policy analysis of federal Medicare Part D expansion, state Medicaid reform proposals, and mental health policies.
+\vspace{1em}
+
+- **United Parcel Service**, Legislative Assistant \hfill Washington, DC (2004-2005)
+	- Assisted federal lobbying team with analysis of international trade agreements as well as federal and state transportation policies.
 
 
 
