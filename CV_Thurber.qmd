@@ -98,7 +98,7 @@ csl: apa-cv.csl
 ### Book Reviews & Correspondence
 
 - 2023. \href{https://doi.org/10.1017/S1537592722003693}{Reply to Corinna Jentzsch's Review} of \emph{Between Mao and Gandhi,} in \emph {Perspectives on Politics} 21 (1): 344 - 346.
-
+  
 - 2023. \href{https://doi.org/10.1017/S1537592722003693}{Review of \emph{Violent Resistance: Militia Formation and Civil War in Mozambique,} by Corinna Jentzsch (Cambridge, 2022),} in \emph {Perspectives on Politics} 21 (1): 344 - 346.
  
 - 2014. Review of \emph{The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century,} edited by Mahendra Lawoti and Anuk K. Pahari (Routledge, 2009), in \emph{Himalaya} 34, no. 1 (Spring): 148-150.
@@ -153,98 +153,81 @@ csl: apa-cv.csl
   - American Academy of Diplomacy: Leonard Marks Essay Contest Winner (2009).
 
 # Invited Talks
-  - University of Notre Dame, Liu Institute for Asia and Asian Studies (Scheduled November 2024).
-  - University of Minnesota, Minnesota International Relations Colloquium (April 2024).
-  - Centro de Investigacion y Docencia Economicas, Division of International Studies (May 2023, virtual).
-  - International Foundation for Electoral Systems (May 2023, virtual).
-  - Online Peace Science Colloquium [(April 2023, virtual).](https://www.youtube.com/watch?v=etW8WLcb1y4)
-  - University of Denver, Korbel Research Seminar (February 2023).
-  - University of Wisconsin-Madison, Comparative Politics Colloquium (February 2022).
-  - Northwestern University, WCCIAS Global Lunchbox Series [(February 2022, podcast).](https://soundcloud.com/wccias/global-lunchbox-ches-thurber?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-  - University of Chicago, Workshop on International Politics (January 2022, virtual).
-  - International Center for Nonviolent Conflict (April 2021, December 2018, March 2017, virtual).
-  - Alliance for Peacebuilding (April 2018, virtual)
-  - Nepal Armed Police Force School, Kathmandu, Nepal (June 2016).
-  - University of Chicago, Program on International Security Policy (May 2016).
-  - University of Chicago, Comparative Politics Workshop (October 2015).
-  - Harvard Kennedy School, Belfer International Security Program [(December 2014).](https://www.abc.net.au/listen/programs/bigideas/revolutionary-movements/6035042)
-  - Tufts University, Fletcher Colloquium (October 2013).
-  - Martin Chautari Invited Speaker Series, Kathmandu, Nepal (July 2013).
+  - 2024. University of Notre Dame, Liu Institute for Asia and Asian Studies (Scheduled November 2024).
+  - 2024. University of Minnesota, Minnesota International Relations Colloquium.
+  - 2023. Centro de Investigacion y Docencia Economicas, Division of International Studies.
+  - 2023. International Foundation for Electoral Systems.
+  - 2023. [Online Peace Science Colloquium](https://www.youtube.com/watch?v=etW8WLcb1y4)
+  - 2023. University of Denver, Korbel Research Seminar.
+  - 2022. University of Wisconsin-Madison, Comparative Politics Colloquium.
+  - 2022. Northwestern University, [WCCIAS Global Lunchbox Series](https://soundcloud.com/wccias/global-lunchbox-ches-thurber?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+  - 2022. University of Chicago, Workshop on International Politics.
+  - 2021. International Center for Nonviolent Conflict.
+  - 2018. International Center for Nonviolent Conflict.
+  - 2018. Alliance for Peacebuilding.
+  - 2017. International Center for Nonviolent Conflict.
+  - 2016. Nepal Armed Police Force School, Kathmandu, Nepal.
+  - 2016. University of Chicago, Program on International Security Policy.
+  - 2015. University of Chicago, Comparative Politics Workshop.
+  - 2014. Harvard Kennedy School, [Belfer International Security Program](https://www.abc.net.au/listen/programs/bigideas/revolutionary-movements/6035042)
+  - 2013. Tufts University, Fletcher Colloquium.
+  - 2013. Martin Chautari Invited Speaker Series, Kathmandu, Nepal.
 
 
 # Conference Papers
-- "Mobilizing for Social Inclusion in Post-Conflict Nepal," with Subindra Bogati.
-    - 2024. ISA Annual Meeting, San Francisco, CA.
-    \vspace{1em}
+- 2024. "Mobilizing for Social Inclusion in Post-Conflict Nepal," with Subindra Bogati. ISA Annual Meeting, San Francisco, CA.
 
-- "India, China, and the Glocalization of Contention in Nepal."
-    - 2023. Muslim Politics and World Society Symposium, Universitas Islam Internasional Indonesia (virtual). \vspace{1em}
+- 2023. "India, China, and the Glocalization of Contention in Nepal." Muslim Politics and World Society Symposium, Universitas Islam Internasional Indonesia (virtual). 
     
-- "Coalitions, Cleavages, and Claims: Rethinking the multiple dimensions of ethnicity in conflict," with Robert Tanner Bivens.
-    - 2023. Four Corners Conflict Network Conference, Moab, UT.
-    - 2023. ISA Annual Meeting, Montreal, CA.
-    - 2021. ISA Annual Meeting, virtual format.
-    \vspace{1em}
+- "Coalitions, Cleavages, and Claims: Rethinking the multiple dimensions of ethnicity in conflict," with Robert Tanner Bivens. 
+
+  - 2023. Four Corners Conflict Network Conference, Moab, UT.
+  - 2023. ISA Annual Meeting, Montreal, CA.
+  - 2021. ISA Annual Meeting (virtual).
     
-- "Inclusive Democratization in the Aftermath of Civil Resistance," with Subindra Bogati, Titik Firawati, and Jonathan Pinckney.
-	 - 2022. ISA Annual Meeting (virtual).
-	 - 2021. Conflict Research Society Annual Meeting (virtual).
-	\vspace{1em}
+- "Inclusive Democratization in the Aftermath of Civil Resistance," with Subindra Bogati, Titik Firawati, and Jonathan Pinckney. 
+  - 2022. ISA Annual Meeting (virtual). 
+  - 2021. Conflict Research Society Annual Meeting (virtual).
 	
-- "A Nod, a Nudge, a Push, and a Putsch: Civ-Mil Relations in  Mass Uprisings."
-  - 2021. APSA Annual Meeting (virtual).
-  \vspace{1em}
+- 2021. "A Nod, a Nudge, a Push, and a Putsch: Civ-Mil Relations in  Mass Uprisings." APSA Annual Meeting (virtual).
   
 - "Ethnicity and Defection during Uprisings from Below: New Data and Analysis," with Paul  Johnson, Theodore McLauchlin, and Julien Morency-LaFlamme.
 	- 2021. ISA Annual Meeting, (virtual).
 	- 2019. APSA Annual Meeting, Washington, DC.
 	- 2019. ISA Annual Meeting, Toronto, ON.
-	\vspace{1em}
+
 	
-- "Investigating Links between Ideology, Audiences, Fragmentation, 
-		and Terrorism in Campaigns of Mass Resistance," with Margherita Belgioioso.
+- "Investigating Links between Ideology, Audiences, Fragmentation, and Terrorism in Campaigns of Mass Resistance," with Margherita Belgioioso.
 	- 2019. APSA Annual Meeting, Washington, DC.
 	- 2019. ISA Annual Meeting, Toronto, ON.
-	\vspace{1em}
 
-- "The Ethnic Barrier to Nonviolent Action."
-	- 2017. APSA Annual Meeting, San Francisco, CA.
-	  \vspace{1em}
-	  
+- 2017. "The Ethnic Barrier to Nonviolent Action." APSA Annual Meeting, San Francisco, CA.
+
 - "Asymmetric Networks and the Breakdown of Civil Resistance: Evidence from Syria."
 	- 2017. *Mobilization* Conference on Nonviolent Strategies and the State, San Diego, CA..
 	- 2017. ISA Annual Meeting, Baltimore, MD.
-  \vspace{1em}
 
 - "Social Roots of Revolution: Gandhians, Maoists, and Insurgent Strategy in Nepal."
 	- 2016. APSA Annual Meeting, Philadelphia, PA.
 	- 2014. ISA Annual Meeting, Toronto, ON.
-	\vspace{1em}
 	
-- "The Strategic Utility of Diversity in Violent and Nonviolent Conflict," with Ben Naimark-Rowse and Phoebe Donnelly.
-	- 2016. ISA Annual Meeting, Atlanta, GA.
-	 \vspace{1em}
+- 2016. "The Strategic Utility of Diversity in Violent and Nonviolent Conflict," with Ben Naimark-Rowse and Phoebe Donnelly. ISA Annual Meeting, Atlanta, GA.
 	
-- "Military Composition and Coups in the Modern Middle East," with Paul Lorenzo Johnson.
-  - 2016. ISA Annual Meeting, Atlanta, GA.
-	\vspace{1em}
-	
+- 2016. "Military Composition and Coups in the Modern Middle East," with Paul Lorenzo Johnson. ISA Annual Meeting, Atlanta, GA.
+
 - "Resistance Networks, Social Overlap, and Revolutionary Strategy." 
   - 2015. APSA Annual Meeting, San Francisco, CA.
   - 2015. MPSA Annual Meeting, Chicago, IL.
   - 2015. Harvard-MIT-Yale Political Violence Conference, Cambridge, MA.
   - 2015. ISA Annual Meeting, New Orleans, LA.
-  \vspace{1em}
 
 - "Stacking to Repress: The Effect of Ethnic Manipulation in the Military on State Violence," with Paul Lorenzo Johnson.
 	 - 2015. MPSA Annual Meeting, Chicago, IL.
 	 - 2015. ISA Annual Meeting, New Orleans, LA.
-  \vspace{1em}
   
 - "The Ethnic Composition of State Security Forces: Introducing a New Dataset," with Paul Lorenzo Johnson.
   - 2014. MPSA Annual Meeting, Chicago, IL.
   - 2014. ISA Annual Meeting, Toronto, ON.
-  \vspace{1em}
   
 - "Violence and Nonviolence in Revolutionary Movements."
   - 2013. ISA Annual Meeting, San Francisco, CA.
