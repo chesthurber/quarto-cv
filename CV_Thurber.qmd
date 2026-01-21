@@ -21,11 +21,7 @@ twitter:  # twitter handle
 web: chesthurber.com
 fontawesome: yes
 nocite: '@*'
-bibliography: 
-  peer: peer_bib.bib
-  other: other_bib.bib
 validate-yaml: false
-csl: apa-cv.csl
 ---
 
 # Academic Appointments
@@ -64,26 +60,31 @@ csl: apa-cv.csl
 
 ### Book
 
-- 2021. [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](\href{https://www.cambridge.org/core/books/between-mao-and-gandhi/21A630179930DC86E735BCA6F708D552) Cambridge University Press, Cambridge Studies in Contentious Politics. Reviewed in [*International Affairs*](https://doi.org/10.1093/ia/iiac031)  and [*Perspectives on Politics*](https://cup.org/42gBDBM).
+- 2021. [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](\href{https://www.cambridge.org/core/books/between-mao-and-gandhi/21A630179930DC86E735BCA6F708D552) Cambridge University Press. 
+  - Reviewed in [*International Affairs*](https://doi.org/10.1093/ia/iiac031), [*Perspectives on Politics*](https://cup.org/42gBDBM), and [*Comparative Politics*](https://doi.org/10.5129/001041524X17249592042927).
+  - Finalist, 2025 Grawemeyer Award for Ideas Improving World Order
 
 
 ### Journal Articles
 
-  - Forthcoming. ["How Civil Resistance Improves Inclusive Democracy,"](https://www.researchgate.net/publication/375489313_How_Civil_Resistance_Improves_Inclusive_Democracy) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. Forthcoming in *Perspectives on Politics.*
+- 2026. ["Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,"](https://doi.org/10.1093/jopres/xjaf009) with Robert Tanner Bivens (*Journal of Peace Research*).
 
-  - 2023. ["From Doctrine to Detonation: Ideology, Organization, and Terrorism in Mass Dissident Campaigns,"](https://doi.org/10.1177/00223433221135) with Margherita Belgioioso. *Journal of Peace Research*, OnlineFirst.
+- 2025. ["How Civil Resistance Improves Inclusive Democracy,"](https://doi.org/10.1017/S1537592724000999) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. *Perspectives on Politics* 23 (5): 552-569.
 
-  - 2020. ["The Security Force Ethnicity (SFE) Project: Introducing a New Dataset,"](https://doi.org/10.1177/0738894217709012) with Paul Lorenzo Johnson. *Conflict Management and Peace Science* 37 (1): 106-129.
 
-  - 2019. ["Social Ties and the Strategy of Civil Resistance. "](https://doi.org/10.1093/isq/sqz049) *International Studies Quarterly* 63 (4): 974-986.
+- 2024. ["From Doctrine to Detonation: Ideology, Organization, and Terrorism in Mass Dissident Campaigns,"](https://doi.org/10.1177/00223433221135) with Margherita Belgioioso. *Journal of Peace Research* 61 (3): 333-350.
 
-  - 2018. ["Ethnic Barriers to Civil Resistance.](https://doi.org/10.1093/jogss/ogy018) *Journal of Global Security Studies* 3 (3): 255-270.
+- 2020. ["The Security Force Ethnicity (SFE) Project: Introducing a New Dataset,"](https://doi.org/10.1177/0738894217709012) with Paul Lorenzo Johnson. *Conflict Management and Peace Science* 37 (1): 106-129.
 
-  - 2014. ["Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups."](https://doi.org/10.1080/09592318.2014.945633) *Small Wars and Insurgencies* 25 (5-6): 900-923.
+- 2019. ["Social Ties and the Strategy of Civil Resistance. "](https://doi.org/10.1093/isq/sqz049) *International Studies Quarterly* 63 (4): 974-986.
 
-### Refereed Chapters & Reports
+- 2018. ["Ethnic Barriers to Civil Resistance.](https://doi.org/10.1093/jogss/ogy018) *Journal of Global Security Studies* 3 (3): 255-270.
 
-- Forthcoming. "A Yam Between Two Boulders: Global Orders, Regional Rivalries, and Contentious Politics," in Abu Bakarr Bah, ed. *Glocalized Security*, Forthcoming with Indiana University Press.
+- 2014. ["Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups."](https://doi.org/10.1080/09592318.2014.945633) *Small Wars and Insurgencies* 25 (5-6): 900-923.
+
+### Refereed Chapters and Reports
+
+- 2025. "The Yam Between Two Boulders: India, China, and the Glocalization of Contention in Nepal," in Abu Bakarr Bah, ed. [*Glocalized Security: Domestic and External Issues in International Security*,](https://iupress.org/9780253072917/glocalized-security/) Indiana University Press: 199-221.
 
 - 2021. [*From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal*](https://www.nonviolent-conflict.org/resource/from-the-hills-to-the-streets-to-the-table-rl/) with Subindra Bogati. ICNC Press.
 
@@ -94,6 +95,7 @@ csl: apa-cv.csl
 - 2011. "From Coexistence to Cleansing: The Rise of Sectarian Violence in Baghdad, 2003-2006." \emph{al-Nakhlah: Journal of Southwest Asia and Islamic Civilization}.
 
 - 2011. ["A Step Short of the Bomb: Explaining the Strategy of Nuclear Hedging."](https://jpia.princeton.edu/sites/jpia/files/jpia2011-2.pdf) \emph{Journal of Public and International Affairs} 22: 29-47.
+
 
 ### Book Reviews & Correspondence
 
@@ -116,12 +118,12 @@ csl: apa-cv.csl
 
 - 2017. ["New Data Shows a Sharp Increase in U.S. Protest Activity in April,"](https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/22/new-data-shows-a-sharp-increase-in-u-s-protest-activity-in-april/) with Erica Chenoweth, Jeremy Pressman, and Evan Perkoski, *Washington Post*, "Monkey Cage" Blog (May 22).
 
-- 2017. ["In Trump's America, Who's Protesting and Why?"](https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/24/in-trumps-america-whos-protesting-and-why-heres-our-march-report/) with Erica Chenoweth, David Prater, Jeremy Pressman, and Stephen Zunes, *Washington Post*,} "Monkey Cage" Blog (April 24).
+- 2017. ["In Trump's America, Who's Protesting and Why?"](https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/24/in-trumps-america-whos-protesting-and-why-heres-our-march-report/) with Erica Chenoweth, David Prater, Jeremy Pressman, and Stephen Zunes, *Washington Post*, "Monkey Cage" Blog (April 24).
 
 ### Work in Progress
 
-  - "Ethnic Coalitions and the Trajectories of Resistance Campaigns," with Robert Tanner Bivens (Under Review).
-  
+ - "Nonviolent Protest Across Ethnic Divides: Pakistan’s Pashtun Tahafuz and Lawyers’ Movements," with Ahmadullah Archiwal (Under Review).
+ 
   - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Working Paper).
   
   - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Working Paper).
@@ -129,6 +131,10 @@ csl: apa-cv.csl
   - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in the Heat of Mass Uprisings." (Working Paper).
   
   - "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict," (Working Paper).
+  
+  - "Nonviolent Resistance and Ethnic Minorities: Structural Obstacles and Paths to Victory," with Margherita Belgioioso (Research in progress).
+
+
 
 # Grants, Fellowships & Awards
 
@@ -155,29 +161,36 @@ csl: apa-cv.csl
   - American Academy of Diplomacy: Leonard Marks Essay Contest Winner (2009).
 
 # Invited Talks
-  - 2024. University of Notre Dame, Liu Institute for Asia and Asian Studies (Scheduled November 2024).
-  - 2024. University of Minnesota, Minnesota International Relations Colloquium.
-  - 2023. Centro de Investigacion y Docencia Economicas, Division of International Studies.
-  - 2023. International Foundation for Electoral Systems.
-  - 2023. [Online Peace Science Colloquium.](https://www.youtube.com/watch?v=etW8WLcb1y4)
-  - 2023. University of Denver, Korbel Research Seminar.
-  - 2022. University of Wisconsin-Madison, Comparative Politics Colloquium.
-  - 2022. Northwestern University, [WCCIAS Global Lunchbox Series.](https://soundcloud.com/wccias/global-lunchbox-ches-thurber?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-  - 2022. University of Chicago, Workshop on International Politics.
-  - 2021. International Center for Nonviolent Conflict.
-  - 2018. International Center for Nonviolent Conflict.
-  - 2018. Alliance for Peacebuilding.
-  - 2017. International Center for Nonviolent Conflict.
-  - 2016. Nepal Armed Police Force School, Kathmandu, Nepal.
-  - 2016. University of Chicago, Program on International Security Policy.
-  - 2015. University of Chicago, Comparative Politics Workshop.
-  - 2014. Harvard Kennedy School, [Belfer International Security Program.](https://www.abc.net.au/listen/programs/bigideas/revolutionary-movements/6035042)
-  - 2013. Tufts University, Fletcher Colloquium.
-  - 2013. Martin Chautari Invited Speaker Series, Kathmandu, Nepal.
+  - 2025. Princeton University, Afghanistan Policy Lab (Washington, DC).
+  - 2024. University of Notre Dame, Liu Institute for Asia and Asian Studies (South Bend, IN).
+  - 2024. University of Minnesota, Minnesota International Relations Colloquium (Minneapolis, MN).
+  - 2023. Centro de Investigacion y Docencia Economicas, Division of International Studies (virtual).
+  - 2023. International Foundation for Electoral Systems (virtual).
+  - 2023. [Online Peace Science Colloquium.](https://www.youtube.com/watch?v=etW8WLcb1y4) (virtual).
+  - 2023. University of Denver, Korbel Research Seminar (Denver, CO).
+  - 2022. University of Wisconsin-Madison, Comparative Politics Colloquium, (Madison, WI)
+  - 2022. Northwestern University, [WCCIAS Global Lunchbox Series](https://soundcloud.com/wccias/global-lunchbox-ches-thurber?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) (virtual).
+  - 2022. University of Chicago, Workshop on International Politics (virtual).
+  - 2021. International Center for Nonviolent Conflict (virtual).
+  - 2018. International Center for Nonviolent Conflict (virtual).
+  - 2018. Alliance for Peacebuilding (virtual).
+  - 2017. International Center for Nonviolent Conflict (virtual).
+  - 2016. Nepal Armed Police Force School (Kathmandu, Nepal).
+  - 2016. University of Chicago, Program on International Security Policy (Chicago, IL).
+  - 2015. University of Chicago, Comparative Politics Workshop (Chicago, IL).
+  - 2014. Harvard Kennedy School, [Belfer International Security Program](https://www.abc.net.au/listen/programs/bigideas/revolutionary-movements/6035042) (Cambridge, MA).
+  - 2013. Tufts University, Fletcher Colloquium (Medford, MA).
+  - 2013. Martin Chautari Invited Speaker Series (Kathmandu, Nepal).
 
 
 # Conference Papers
-- "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict." 2024. Accepted for the Annual Meeting of the Peace Science Society (International), Ann Arbor, MI.  
+- "Color War: Popular Uprisings and Interstate Conflict." 
+
+  - 2025. APSA Annual Meeting, Vancouver, BC.
+  - 2025. ISA Annual Meeting, Chicago, IL.
+  - 2024. Annual Meeting of the Peace Science Society (International), Ann Arbor, MI.  
+
+- "Allies that Help, Allies that Hinder: the Impact of Transnational Support on Minority-led Resistance Movements." 2024. APSA Annual Meeting, Philadelphia, PA.
 
 - "Mobilizing for Social Inclusion in Post-Conflict Nepal," with Subindra Bogati. 2024. ISA Annual Meeting, San Francisco, CA.
 
@@ -186,7 +199,7 @@ csl: apa-cv.csl
 - "Coalitions, Cleavages, and Claims: Rethinking the multiple dimensions of ethnicity in conflict," with Robert Tanner Bivens. 
 
   - 2023. Four Corners Conflict Network Conference, Moab, UT.
-  - 2023. ISA Annual Meeting, Montreal, CA.
+  - 2023. ISA Annual Meeting, Montreal, QC.
   - 2021. ISA Annual Meeting (virtual).
     
 - "Inclusive Democratization in the Aftermath of Civil Resistance," with Subindra Bogati, Titik Firawati, and Jonathan Pinckney. 
@@ -251,6 +264,7 @@ csl: apa-cv.csl
 - 2019. "Methods of Inquiry in the Study of Civil Resistance," ISA Annual Meeting, Toronto, Canada.
 
 ### Chair / Discussant
+- 2025. "Leadership, Legitimacy, and Decision-Making in Crisis and Conflict," Chair/Discussant, APSA Annual Meeting, Vancouver, BC.
 - 2024. "Disaggregating actors and institutions in protest dynamics,"  Discussant, ISA Annual Meeting, San Francisco, CA.
 - 2023. Four Corners Conflict Network Conference, Discussant, Moab, UT.
 - 2022. "Multi-Actor Approaches to the Study of Conflict," Discussant, ISA Annual Meeting, Montreal, Canada.
@@ -271,16 +285,16 @@ csl: apa-cv.csl
 *Undergraduate*
 
 - Introduction to International Relations (Fall 2024, Sp. 2022, Fall 2017, Sp. 2017, Fall 2016).
-- International Law and Organizations (Fall 2023, Fall 2021, Fall 2020, Fall 2018).
-- International Security (Fall 2022, Sp. 2022, Sp.  2020, Sp. 2017, Sp. 2018).
+- International Law and Organizations (Fall 2025, Fall 2023, Fall 2021, Fall 2020, Fall 2018).
+- International Security (Sp. 2025, Fall 2022, Sp. 2022, Sp.  2020, Sp. 2017, Sp. 2018).
 - Topics in Contemporary Security (Fall 2023, Sum. 2022, Sp. 2021, Sp. 2018).
 
 *Graduate*
 
 - International Relations Theory (Fall 2017).
-- International Security (Sp. 2024, Fall 2020, Sp. 2019).
-- Introductory Analysis of Political Data (Fall 2021, Fall 2018).
-- Intermediate Analysis of Political Data (Sp. 2021, Sp. 2019).
+- International Security (Sp. 2026, Sp. 2024, Fall 2020, Sp. 2019).
+- Introductory Analysis of Political Data (Fall 2024, Fall 2021, Fall 2018).
+- Intermediate Analysis of Political Data (Sp. 2026, Sp. 2021, Sp. 2019).
 - Contentious Politics (Sp. 2022, Sp. 2020).
 
 ### Tufts University
@@ -303,7 +317,7 @@ csl: apa-cv.csl
 
 ### Doctoral Dissertation Chair
 
-- Annie Tong (in progress)
+- Annie Tong (2025)
 - Titik Firawati (2024), Gadjah Mada University
 - Anna Zapolska (2022), U.S. Department of Justice
 - Damir Kovacevic (2018), University of Wisconsin-Eau Claire
@@ -313,6 +327,8 @@ csl: apa-cv.csl
 
 - Salieg Munestri (in progress)
 - Rithiya Serrey (in progress)
+- Azriansyah Agoes (2025)
+- Cassandra Epping (2025)
 - Tanner Bivens (2024)
 - Jim Godowic (2021)
 - James Boesen (2017) 
@@ -329,7 +345,8 @@ csl: apa-cv.csl
 
 ### M.A. Thesis Committee
 
-- Thomas Mejdrech (in progress)
+- Isaiah Chukwudi Samuel (2025)
+- Thomas Mejdrech (2024)
 - Chibuzo Obasi (2023)
 - Patricia Buczynski (2022)
 - Tammie-Louise Finnegan (2022)
@@ -338,12 +355,13 @@ csl: apa-cv.csl
 - Medha Monjaury (2018)
 
 ### Undergraduate Honors Capstone
-
+- Claire Meyer (2025)
 - Timothy Johnson (2019-2020)
 - Quinn Carolan (2018)
   - Published in [*Compass: An Undergraduate Journal of American Political Ideas*](https://digitalcommons.jsu.edu/compass/vol5/iss1/1)
 
 ### Undergraduate Sponsored Research
+- Vincent Bratcher (NIU Research Rookies, 2024-2025)
 - Shelby Emery (NIU Research Rookies, 2020-2021)
 - Matthew Holt (NIU Student Engagement Research Grant, 2017)
 - Kevin Kelly (Smith Richardson Foundation Grant, 2014-2015)
@@ -380,19 +398,22 @@ csl: apa-cv.csl
 - Director of Undergraduate Studies (2023-Present)
 - Committee on the Undergraduate Program (2016-2017, 2021-Present)
 - NIU Model United Nations Team Faculty Advisor (2016-Present)
-- Personnel Committee (2024)
+- Personnel Committee (2024 - Present)
 - Department Chair Search Committee (2019, 2020)
 - Committee on the Graduate Program (2016-2017)
 
 
 ### University
 - CLAS Curriculum Committee (2024-Present)
-- Honors Program Committee (2020-Present)
-- NNGO Steering Committee (2023-Present)
+- Honors Program Committee (2020-2025)
+- NNGO Steering Committee (2023-2025)
 - Dissertation Completion Fellowship Selection Committee (2021)
 
 ### State
 - Illinois Articulation Initiative, Political Science Panel Member (2023-Present)
+
+### Discipline
+- Treasurer, APSA Conflict Processes Section (2024-Present)
 
 ### Editorial Board
 - African Conflict and Peacebuilding Review (2022-Present).
@@ -401,7 +422,7 @@ csl: apa-cv.csl
 
 - *Journals:* American Political Science Review, British Journal of Political Science, Comparative Political Studies, Comparative Politics, Conflict Management and Peace Science, European Journal of International Relations, Global Security and Intelligence Studies, International Area Studies Review, International Security, International Social Science Journal, International Studies Quarterly, Journal of Conflict Resolution, Journal of Global Security Studies, Journal of Peace Research, Journal of Politics, Middle Eastern Studies, Mobilization, Perspectives on Politics, PLOS ONE, Research and Politics,  Security Studies.
     
-- *Grants:* Harry Frank Guggenheim Foundation, Israel Science Foundation, National Science Center (Poland) 
+- *Grants:* Harry Frank Guggenheim Foundation, Israel Science Foundation, National Science Center (Poland), UK Research and Innovation 
 
 - *Presses:* Columbia University Press, ICNC Press, Routledge
  
@@ -412,16 +433,18 @@ csl: apa-cv.csl
 # Media Appearances
 
 ### Television
-- *WIFR 23 Rockford*: [Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); [Aug. 16, 2021](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html); Jan. 8, 2020.
-- *WREX Rockford*: Feb. 25, 2022.
+
+- *WREX Rockford*: [Jan. 6, 2026](https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0GOLFHByLXJ8BShU5xO93SXesH6DFm4VRbgqzx8mp9bHhQ0M0tMpY0niXJMnwkU7GwQqzyzubf2qi0dLOPK0vrc6wjL71AmwsnsWU0E5S7kQg4TybEqOCc9eIPCom-PhXupX13g8vU9QG3uLS6EpwLsrws1YI5GAoSpY2kEUXE2LySkbSgm2YR9NIPmlmQqGWA/4nb/WLvCj7uIS9S3vgS5TPv0bA/h21/h001.k2BYIY1Koi4oHeZnAw6iDt1UgCsFuWrd_asp8JkOOFw); June 24, 2025; [Oct. 14, 2023](https://www.wrex.com/news/northern-illinois-university-professor-integrates-the-israel-hamas-war-into-studies/article_9c008000-6ae2-11ee-b984-eb425e50351d.html), Feb. 25, 2022.
+- *WTVO Rockford*: June 25, 2025; [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
+- *WIFR 23 Rockford*: [June 23, 2025](https://www.youtube.com/watch?v=bhJzOxLHG2I);[Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); [Aug. 16, 2021](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html); Jan. 8, 2020.
 - *FOX 32 Chicago*: [April 21, 2022](https://www.fox32chicago.com/video/1060344); [Feb. 23, 2022](https://www.fox32chicago.com/video/1038416); [Feb. 16, 2022](https://www.youtube.com/watch?v=h_ESpwI6_rc); Sept. 5, 2021; Aug. 31, 2021; [June 16, 2021](https://www.fox32chicago.com/video/944837).
 - *WGN 9 Chicago*: [Aug. 16, 2021](https://www.youtube.com/watch?v=IsijwhsA4Nk).
--*WTVO Rockford*: [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
+
 
 ### Radio
 
 - *NPR*, "The 21st": [Feb. 28, 2022](https://www.npr.org/podcasts/475680317/the-21st).
-- *WNIJ Northern Public Radio*: [Feb. 24, 2022](https://www.northernpublicradio.org/2022-02-24/dekalb-county-this-week-reaction-to-tensions-in-europe-stage-coach-players-to-hold-auditions); [Aug. 28, 2020](https://www.northernpublicradio.org/business/2020-08-28/tiktok-data-security-and-dueling-economies); [April 13, 2017](https://www.northernpublicradio.org/post/scrutiny-mounts-travel-orders); [April 7, 2017](https://www.northernpublicradio.org/post/niu-professor-trump-drew-line-chemical-weapons).
+- *WNIJ Northern Public Radio*: [Jan. 5, 2026](https://www.northernpublicradio.org/illinois/2026-01-05/niu-political-scientist-who-studies-international-conflict-reacts-to-surprise-move-to-capture-and-charge-venezuelas-nicolas-maduro);[Feb. 24, 2022](https://www.northernpublicradio.org/2022-02-24/dekalb-county-this-week-reaction-to-tensions-in-europe-stage-coach-players-to-hold-auditions); [Aug. 28, 2020](https://www.northernpublicradio.org/business/2020-08-28/tiktok-data-security-and-dueling-economies); [April 13, 2017](https://www.northernpublicradio.org/post/scrutiny-mounts-travel-orders); [April 7, 2017](https://www.northernpublicradio.org/post/niu-professor-trump-drew-line-chemical-weapons).
 - *WBBM-AM Chicago*: Aug. 16, 2021.
 - *WCEV 1450 Chicago*, "Radio Islam": [Feb. 19, 2019](https://soundcloud.com/radioislamusa/ep-6721-crisis-in-venezuela-02-19-2019); [May 4, 2018](https://soundcloud.com/radioislamusa/ep-527-conflict-in-a-nuclear-world-with-ches-thurber-5318); [Feb. 15, 2018](https://www.radioislam.com/node/28279).
 - *Australian Broadcast Corporation*, "Big Ideas": [Feb. 18, 2015](https://www.abc.net.au/radionational/programs/bigideas/revolutionary-movements/6035042).
@@ -432,7 +455,13 @@ csl: apa-cv.csl
 - *Egypt Today*: [Sept. 14, 2017](https://www.egypttoday.com/Article/2/22724/Iraqi-Militias-The-Tangle-of-Flags)
 - *The Fletcher Security Review*: [February 2017](https://docs.wixstatic.com/ugd/c28a64_c8ed8f4140894077be782bda046b4f96.pdf)
 
-# Public Talks & Engagement
+# Public Talks & Policy Engagement
+
+- "The Power of Protest in Global and Local Politics," DeKalb County History Center, Ellwood House Museum, DeKalb, IL (August 2025).
+
+- Roundtable on "Social Cohesion," USAID Bureau on Democracy, Human Rights, and Governance, virtual format (November 2024).
+
+- Roundtable on "The U.S Presidential Election," (Organizer and Moderator) Northern Illinois University, DeKalb, IL (October 2024).
 
 - Roundtable on "Indonesia's Presidential Election," (Organizer and Moderator) Northern Illinois University, DeKalb, IL (February 2024).
 
