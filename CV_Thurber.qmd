@@ -67,7 +67,9 @@ validate-yaml: false
 
 ### Journal Articles
 
-- 2026. ["Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,"](https://doi.org/10.1093/jopres/xjaf009) with Robert Tanner Bivens (*Journal of Peace Research*).
+- 2026. ["Nonviolent Protest Across Ethnic Divides: Pakistan’s Pashtun Tahafuz and Lawyers’ Movements,"](https://doi.org/10.1177/01925121261438409) with Ahmadullah Archiwal. *International Political Science Review*.
+
+- 2026. ["Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,"](https://doi.org/10.1093/jopres/xjaf009) with Robert Tanner Bivens. *Journal of Peace Research*.
 
 - 2025. ["How Civil Resistance Improves Inclusive Democracy,"](https://doi.org/10.1017/S1537592724000999) with Subindra Bogati,  Titik Firawati, and Jonathan Pinckney. *Perspectives on Politics* 23 (5): 552-569.
 
@@ -122,11 +124,10 @@ validate-yaml: false
 
 ### Work in Progress
 
- - "Nonviolent Protest Across Ethnic Divides: Pakistan’s Pashtun Tahafuz and Lawyers’ Movements," with Ahmadullah Archiwal (Under Review).
  
+   - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Under Review).
+   
   - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Working Paper).
-  
-  - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Working Paper).
   
   - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in the Heat of Mass Uprisings." (Working Paper).
   
@@ -146,6 +147,7 @@ validate-yaml: false
   
   
 ### Internally Funded Research Grants
+  - Northern Illinois University: Research and Artistry Grant (2026).  \hfill $15,000
   - Northern Illinois University: Great Journeys Grant (2020-2021). \hfill $15,000
   - Northern Illinois University: Great Journeys Grant (2017-2018). \hfill $14,000
   - Northern Illinois University: Summer Research and Artistry Grant (2017).  \hfill $13,500
@@ -184,6 +186,15 @@ validate-yaml: false
 
 
 # Conference Papers
+
+- "Ethnicity and Defection during Uprisings from Below: New Data and Analysis," with Paul  Johnson, Theodore McLauchlin, and Julien Morency-LaFlamme.
+  - 2026. Accepted for APSA Annual Meeting, Boston, MA.
+	- 2021. ISA Annual Meeting, (virtual).
+	- 2019. APSA Annual Meeting, Washington, DC.
+	- 2019. ISA Annual Meeting, Toronto, ON.
+
+- "Non-Violent Uprisings and Diversionary War: the Case of the Bakassi Conflict." 2026. ISA Annual Meeting, Columbus, OH.
+
 - "Color War: Popular Uprisings and Interstate Conflict." 
 
   - 2025. APSA Annual Meeting, Vancouver, BC.
@@ -207,11 +218,6 @@ validate-yaml: false
   - 2021. Conflict Research Society Annual Meeting (virtual).
 	
 - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in  the Heat of Mass Uprisings." 2021. APSA Annual Meeting (virtual).
-  
-- "Ethnicity and Defection during Uprisings from Below: New Data and Analysis," with Paul  Johnson, Theodore McLauchlin, and Julien Morency-LaFlamme.
-	- 2021. ISA Annual Meeting, (virtual).
-	- 2019. APSA Annual Meeting, Washington, DC.
-	- 2019. ISA Annual Meeting, Toronto, ON.
 
 	
 - "Investigating Links between Ideology, Audiences, Fragmentation, and Terrorism in Campaigns of Mass Resistance," with Margherita Belgioioso.
@@ -308,6 +314,7 @@ validate-yaml: false
 
 # Teaching Recognition
 
+- 2026. Honors Faculty of Distinction, Northern Illinois University.
 - 2024. Outstanding Honors Faculty Spotlight, Northern Illinois University.
 - 2023. Departmental Nominee, Excellence in Undergraduate Teaching Award, Northern Illinois University.
 - 2018. Engaged Learning Exemplar, Northern Illinois University.
@@ -317,7 +324,7 @@ validate-yaml: false
 
 ### Doctoral Dissertation Chair
 
-- Annie Tong (2025)
+- Annie Tong (2025), Chiang Mai University
 - Titik Firawati (2024), Gadjah Mada University
 - Anna Zapolska (2022), U.S. Department of Justice
 - Damir Kovacevic (2018), University of Wisconsin-Eau Claire
@@ -335,6 +342,9 @@ validate-yaml: false
 - Martin Claar (2017)
     
 ### M.A. Thesis Chair
+
+- Casey Kruger (2026)
+  - *Outstanding Graduate Student Award*
 - Rothsethamony Seng (2024)
 - Janet Vallejo (2023)
 - Mohammed Noor (2022)
@@ -345,6 +355,7 @@ validate-yaml: false
 
 ### M.A. Thesis Committee
 
+- McKeown Owuso (2026)
 - Isaiah Chukwudi Samuel (2025)
 - Thomas Mejdrech (2024)
 - Chibuzo Obasi (2023)
@@ -355,12 +366,17 @@ validate-yaml: false
 - Medha Monjaury (2018)
 
 ### Undergraduate Honors Capstone
+
+- Nicolas Obabko (2025)
+  - *Outstanding Capstone Award*
 - Claire Meyer (2025)
 - Timothy Johnson (2019-2020)
 - Quinn Carolan (2018)
   - Published in [*Compass: An Undergraduate Journal of American Political Ideas*](https://digitalcommons.jsu.edu/compass/vol5/iss1/1)
 
 ### Undergraduate Sponsored Research
+
+- Lauren Leano (NIU Research Rookies, 2025-2026)
 - Vincent Bratcher (NIU Research Rookies, 2024-2025)
 - Shelby Emery (NIU Research Rookies, 2020-2021)
 - Matthew Holt (NIU Student Engagement Research Grant, 2017)
@@ -369,6 +385,9 @@ validate-yaml: false
 - Sarah Koosis (Smith Richardson Foundation Grant, 2014-2015)
 
 ### Undergraduate Independent Research
+
+- Sofía Diaz (2026)
+- James Nordstrom (2026)
 - Samm Cottone (2020)
 - Thomas Phetmuengmay (2020)
 - Sean Lehning (2019-2020)
@@ -398,7 +417,7 @@ validate-yaml: false
 - Director of Undergraduate Studies (2023-Present)
 - Committee on the Undergraduate Program (2016-2017, 2021-Present)
 - NIU Model United Nations Team Faculty Advisor (2016-Present)
-- Personnel Committee (2024 - Present)
+- Personnel Committee (2023-2025)
 - Department Chair Search Committee (2019, 2020)
 - Committee on the Graduate Program (2016-2017)
 
@@ -434,9 +453,9 @@ validate-yaml: false
 
 ### Television
 
-- *WREX Rockford*: [Jan. 6, 2026](https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0GOLFHByLXJ8BShU5xO93SXesH6DFm4VRbgqzx8mp9bHhQ0M0tMpY0niXJMnwkU7GwQqzyzubf2qi0dLOPK0vrc6wjL71AmwsnsWU0E5S7kQg4TybEqOCc9eIPCom-PhXupX13g8vU9QG3uLS6EpwLsrws1YI5GAoSpY2kEUXE2LySkbSgm2YR9NIPmlmQqGWA/4nb/WLvCj7uIS9S3vgS5TPv0bA/h21/h001.k2BYIY1Koi4oHeZnAw6iDt1UgCsFuWrd_asp8JkOOFw); June 24, 2025; [Oct. 14, 2023](https://www.wrex.com/news/northern-illinois-university-professor-integrates-the-israel-hamas-war-into-studies/article_9c008000-6ae2-11ee-b984-eb425e50351d.html), Feb. 25, 2022.
-- *WTVO Rockford*: June 25, 2025; [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
-- *WIFR 23 Rockford*: [June 23, 2025](https://www.youtube.com/watch?v=bhJzOxLHG2I);[Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); [Aug. 16, 2021](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html); Jan. 8, 2020.
+- *WREX Rockford*: [Mar. 3, 2026](https://www.wrex.com/news/niu-professor-presidential-use-of-force-likely-to-spark-congressional-debate/article_2176c827-35d8-45bc-beab-6fcb8dc231fd.html)[Jan. 6, 2026](https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0GOLFHByLXJ8BShU5xO93SXesH6DFm4VRbgqzx8mp9bHhQ0M0tMpY0niXJMnwkU7GwQqzyzubf2qi0dLOPK0vrc6wjL71AmwsnsWU0E5S7kQg4TybEqOCc9eIPCom-PhXupX13g8vU9QG3uLS6EpwLsrws1YI5GAoSpY2kEUXE2LySkbSgm2YR9NIPmlmQqGWA/4nb/WLvCj7uIS9S3vgS5TPv0bA/h21/h001.k2BYIY1Koi4oHeZnAw6iDt1UgCsFuWrd_asp8JkOOFw); June 24, 2025; [Oct. 14, 2023](https://www.wrex.com/news/northern-illinois-university-professor-integrates-the-israel-hamas-war-into-studies/article_9c008000-6ae2-11ee-b984-eb425e50351d.html), Feb. 25, 2022.
+- *WTVO Rockford*: May 1, 2026; [Mar. 3, 2026](https://www.mystateline.com/news/local-news/niu-professor-analyzes-u-s-iran-conflict-and-public-sentiment/);June 25, 2025; [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
+- *WIFR 23 Rockford*: [Mar. 3, 2026](https://www.wifr.com/2026/03/03/illinois-congressman-political-expert-respond-us-military-action-targeting-iran/); [June 23, 2025](https://www.youtube.com/watch?v=bhJzOxLHG2I);[Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); Aug. 16, 2021; [Jan. 8, 2020](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html).
 - *FOX 32 Chicago*: [April 21, 2022](https://www.fox32chicago.com/video/1060344); [Feb. 23, 2022](https://www.fox32chicago.com/video/1038416); [Feb. 16, 2022](https://www.youtube.com/watch?v=h_ESpwI6_rc); Sept. 5, 2021; Aug. 31, 2021; [June 16, 2021](https://www.fox32chicago.com/video/944837).
 - *WGN 9 Chicago*: [Aug. 16, 2021](https://www.youtube.com/watch?v=IsijwhsA4Nk).
 
@@ -444,7 +463,7 @@ validate-yaml: false
 ### Radio
 
 - *NPR*, "The 21st": [Feb. 28, 2022](https://www.npr.org/podcasts/475680317/the-21st).
-- *WNIJ Northern Public Radio*: [Jan. 5, 2026](https://www.northernpublicradio.org/illinois/2026-01-05/niu-political-scientist-who-studies-international-conflict-reacts-to-surprise-move-to-capture-and-charge-venezuelas-nicolas-maduro);[Feb. 24, 2022](https://www.northernpublicradio.org/2022-02-24/dekalb-county-this-week-reaction-to-tensions-in-europe-stage-coach-players-to-hold-auditions); [Aug. 28, 2020](https://www.northernpublicradio.org/business/2020-08-28/tiktok-data-security-and-dueling-economies); [April 13, 2017](https://www.northernpublicradio.org/post/scrutiny-mounts-travel-orders); [April 7, 2017](https://www.northernpublicradio.org/post/niu-professor-trump-drew-line-chemical-weapons).
+- *WNIJ Northern Public Radio*: [Mar. 3, 2026](https://www.northernpublicradio.org/wnij-news/2026-03-02/northern-illinois-university-professor-gives-context-to-trumps-iran-strikes); [Jan. 5, 2026](https://www.northernpublicradio.org/illinois/2026-01-05/niu-political-scientist-who-studies-international-conflict-reacts-to-surprise-move-to-capture-and-charge-venezuelas-nicolas-maduro);[Feb. 24, 2022](https://www.northernpublicradio.org/2022-02-24/dekalb-county-this-week-reaction-to-tensions-in-europe-stage-coach-players-to-hold-auditions); [Aug. 28, 2020](https://www.northernpublicradio.org/business/2020-08-28/tiktok-data-security-and-dueling-economies); [April 13, 2017](https://www.northernpublicradio.org/post/scrutiny-mounts-travel-orders); [April 7, 2017](https://www.northernpublicradio.org/post/niu-professor-trump-drew-line-chemical-weapons).
 - *WBBM-AM Chicago*: Aug. 16, 2021.
 - *WCEV 1450 Chicago*, "Radio Islam": [Feb. 19, 2019](https://soundcloud.com/radioislamusa/ep-6721-crisis-in-venezuela-02-19-2019); [May 4, 2018](https://soundcloud.com/radioislamusa/ep-527-conflict-in-a-nuclear-world-with-ches-thurber-5318); [Feb. 15, 2018](https://www.radioislam.com/node/28279).
 - *Australian Broadcast Corporation*, "Big Ideas": [Feb. 18, 2015](https://www.abc.net.au/radionational/programs/bigideas/revolutionary-movements/6035042).
