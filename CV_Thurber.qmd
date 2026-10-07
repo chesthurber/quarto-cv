@@ -122,18 +122,26 @@ validate-yaml: false
 
 - 2017. ["In Trump's America, Who's Protesting and Why?"](https://www.washingtonpost.com/news/monkey-cage/wp/2017/04/24/in-trumps-america-whos-protesting-and-why-heres-our-march-report/) with Erica Chenoweth, David Prater, Jeremy Pressman, and Stephen Zunes, *Washington Post*, "Monkey Cage" Blog (April 24).
 
-### Work in Progress
 
+### Work in Progress
  
-   - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Under Review).
+   - "Ethnicity and Defection during Uprisings from Below,"  with Paul Lorenzo Johnson, Theodore McLauchlin, and Julien Morency-Laflamme (Journal article, Revise and resubmit).
    
-  - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Working Paper).
+  - "Allies at Home, Allies Abroad: Overcoming Barriers to Ethnic Minority Resistance," with Margherita Belgioioso (Journal article, Revise and resubmit).
   
-  - "A Nod, a Nudge, a Push, and a Putsch: Civil-Military Relations in the Heat of Mass Uprisings." (Working Paper).
+  - "Impactful Research in Political Science and International Relations," with Aarie Glas, Colin Kuehl, Alesha Porisky, and Mai Van Tran (Book chapter, Revise and resubmit).
+   
+  - "Military Ethnicity and Genocide," with Paul Lorenzo Johnson (Under review).
+  
+  - "Afghan Resistance in Comparative Perspective: Insights from and for the Global Study of Nonviolent Conflict" (Book chapter, Under review).
+  
+  - "A Nod, a Nudge, a Push, and a Putsch: Civ-Mil Relations in the Heat of Mass Uprisings." (Working Paper).
+  
+  - "Opportunism or Diversion? Explaining Escalation of the Bakassi Dispute," (Working Paper).
   
   - "Cold War, Hot War, Color War: Popular Uprisings and Interstate Conflict," (Working Paper).
   
-  - "Nonviolent Resistance and Ethnic Minorities: Structural Obstacles and Paths to Victory," with Margherita Belgioioso (Research in progress).
+
 
 
 
@@ -187,8 +195,14 @@ validate-yaml: false
 
 # Conference Papers
 
+- "Allies at Home, Allies Abroad: Overcoming Barriers to Ethnic Minority Resistance," with Margherita Belgioioso.
+
+  - 2027. Accepted for ISA Annual Meeting, Atlanta, GA.
+  - 2026. Accepted for Peace Science Society Annual Meeting, Pittsburgh, PA.
+
 - "Ethnicity and Defection during Uprisings from Below: New Data and Analysis," with Paul  Johnson, Theodore McLauchlin, and Julien Morency-LaFlamme.
-  - 2026. Accepted for APSA Annual Meeting, Boston, MA.
+
+  - 2026. APSA Annual Meeting, Boston, MA.
 	- 2021. ISA Annual Meeting, (virtual).
 	- 2019. APSA Annual Meeting, Washington, DC.
 	- 2019. ISA Annual Meeting, Toronto, ON.
@@ -293,7 +307,7 @@ validate-yaml: false
 - Introduction to International Relations (Fall 2024, Sp. 2022, Fall 2017, Sp. 2017, Fall 2016).
 - International Law and Organizations (Fall 2025, Fall 2023, Fall 2021, Fall 2020, Fall 2018).
 - International Security (Sp. 2025, Fall 2022, Sp. 2022, Sp.  2020, Sp. 2017, Sp. 2018).
-- Topics in Contemporary Security (Fall 2023, Sum. 2022, Sp. 2021, Sp. 2018).
+- Topics in Contemporary Security (Fall 2026, Fall 2023, Sum. 2022, Sp. 2021, Sp. 2018).
 
 *Graduate*
 
@@ -301,7 +315,7 @@ validate-yaml: false
 - International Security (Sp. 2026, Sp. 2024, Fall 2020, Sp. 2019).
 - Introductory Analysis of Political Data (Fall 2024, Fall 2021, Fall 2018).
 - Intermediate Analysis of Political Data (Sp. 2026, Sp. 2021, Sp. 2019).
-- Contentious Politics (Sp. 2022, Sp. 2020).
+- Contentious Politics (Fall 2026, Sp. 2022, Sp. 2020).
 
 ### Tufts University
 - Theory and Practice of Nonviolent Resistance (Fall 2014).
@@ -324,6 +338,7 @@ validate-yaml: false
 
 ### Doctoral Dissertation Chair
 
+- Razan Alarifi (in progress)
 - Annie Tong (2025), Chiang Mai University
 - Titik Firawati (2024), Gadjah Mada University
 - Anna Zapolska (2022), U.S. Department of Justice
@@ -332,6 +347,7 @@ validate-yaml: false
     
 ### Doctoral Dissertation Committee
 
+- Ernest Plange Kwofie (in progress)
 - Salieg Munestri (in progress)
 - Rithiya Serrey (in progress)
 - Azriansyah Agoes (2025)
@@ -439,7 +455,7 @@ validate-yaml: false
 
 ### Reviewer
 
-- *Journals:* American Political Science Review, British Journal of Political Science, Comparative Political Studies, Comparative Politics, Conflict Management and Peace Science, European Journal of International Relations, Global Security and Intelligence Studies, International Area Studies Review, International Security, International Social Science Journal, International Studies Quarterly, Journal of Conflict Resolution, Journal of Global Security Studies, Journal of Peace Research, Journal of Politics, Middle Eastern Studies, Mobilization, Perspectives on Politics, PLOS ONE, Research and Politics,  Security Studies.
+- *Journals:* American Political Science Review, British Journal of Political Science, Comparative Political Studies, Comparative Politics, Conflict Management and Peace Science, European Journal of International Relations, Global Security and Intelligence Studies, International Area Studies Review, International Security, International Social Science Journal, International Studies Quarterly, Journal of Conflict Resolution, Journal of Global Security Studies, Journal of Peace Research, Journal of Political Ideologies, Journal of Politics, Middle Eastern Studies, Mobilization, Perspectives on Politics, PLOS ONE, Research and Politics,  Security Studies, SN Human Behavior.
     
 - *Grants:* Harry Frank Guggenheim Foundation, Israel Science Foundation, National Science Center (Poland), UK Research and Innovation 
 
@@ -453,11 +469,12 @@ validate-yaml: false
 
 ### Television
 
-- *WREX Rockford*: May 1, 2026;[Mar. 3, 2026](https://www.wrex.com/news/niu-professor-presidential-use-of-force-likely-to-spark-congressional-debate/article_2176c827-35d8-45bc-beab-6fcb8dc231fd.html)[Jan. 6, 2026](https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0GOLFHByLXJ8BShU5xO93SXesH6DFm4VRbgqzx8mp9bHhQ0M0tMpY0niXJMnwkU7GwQqzyzubf2qi0dLOPK0vrc6wjL71AmwsnsWU0E5S7kQg4TybEqOCc9eIPCom-PhXupX13g8vU9QG3uLS6EpwLsrws1YI5GAoSpY2kEUXE2LySkbSgm2YR9NIPmlmQqGWA/4nb/WLvCj7uIS9S3vgS5TPv0bA/h21/h001.k2BYIY1Koi4oHeZnAw6iDt1UgCsFuWrd_asp8JkOOFw); June 24, 2025; [Oct. 14, 2023](https://www.wrex.com/news/northern-illinois-university-professor-integrates-the-israel-hamas-war-into-studies/article_9c008000-6ae2-11ee-b984-eb425e50351d.html), Feb. 25, 2022.
+- *WGN 9 Chicago*: June 18, 2026; [Aug. 16, 2021](https://www.youtube.com/watch?v=IsijwhsA4Nk).
+- *WREX Rockford*: May 1, 2026; [Mar. 3, 2026](https://www.wrex.com/news/niu-professor-presidential-use-of-force-likely-to-spark-congressional-debate/article_2176c827-35d8-45bc-beab-6fcb8dc231fd.html); [Jan. 6, 2026](https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0GOLFHByLXJ8BShU5xO93SXesH6DFm4VRbgqzx8mp9bHhQ0M0tMpY0niXJMnwkU7GwQqzyzubf2qi0dLOPK0vrc6wjL71AmwsnsWU0E5S7kQg4TybEqOCc9eIPCom-PhXupX13g8vU9QG3uLS6EpwLsrws1YI5GAoSpY2kEUXE2LySkbSgm2YR9NIPmlmQqGWA/4nb/WLvCj7uIS9S3vgS5TPv0bA/h21/h001.k2BYIY1Koi4oHeZnAw6iDt1UgCsFuWrd_asp8JkOOFw); June 24, 2025; [Oct. 14, 2023](https://www.wrex.com/news/northern-illinois-university-professor-integrates-the-israel-hamas-war-into-studies/article_9c008000-6ae2-11ee-b984-eb425e50351d.html), Feb. 25, 2022.
 - *WTVO Rockford*: [Mar. 3, 2026](https://www.mystateline.com/news/local-news/niu-professor-analyzes-u-s-iran-conflict-and-public-sentiment/);June 25, 2025; [Aug. 16, 2021](https://www.mystateline.com/news/local-news/rockford-veteran-worries-for-afghan-allies-left-behind-as-taliban-overrun-the-country/)
 - *WIFR 23 Rockford*: [Mar. 3, 2026](https://www.wifr.com/2026/03/03/illinois-congressman-political-expert-respond-us-military-action-targeting-iran/); [June 23, 2025](https://www.youtube.com/watch?v=bhJzOxLHG2I);[Feb. 24, 2023](https://www.wifr.com/2023/02/24/world-marks-one-year-since-russia-invaded-ukraine/); Aug. 16, 2021; [Jan. 8, 2020](https://www.wifr.com/content/news/LOCAL-PROFESSORS-WEIGH-IN-ON-MISSILE-STRIKE--566827601.html).
 - *FOX 32 Chicago*: [April 21, 2022](https://www.fox32chicago.com/video/1060344); [Feb. 23, 2022](https://www.fox32chicago.com/video/1038416); [Feb. 16, 2022](https://www.youtube.com/watch?v=h_ESpwI6_rc); Sept. 5, 2021; Aug. 31, 2021; [June 16, 2021](https://www.fox32chicago.com/video/944837).
-- *WGN 9 Chicago*: [Aug. 16, 2021](https://www.youtube.com/watch?v=IsijwhsA4Nk).
+
 
 
 ### Radio
